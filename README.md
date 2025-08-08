@@ -12,32 +12,52 @@
 
 ## 🎯 About Me
 
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+<div align="center">
+  <img alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+</div>
 
-```typescript
-const driizzyy = {
-    pronouns: "he" | "him",
-    code: ["JavaScript", "Python", "C#", "C++", "TypeScript", "Lua"],
-    askMeAbout: ["web dev", "discord bots", "automation", "gaming"],
-    technologies: {
-        frontEnd: {
-            js: ["React", "Vue", "Angular"],
-            css: ["Bootstrap", "Tailwind", "Material-UI"]
-        },
-        backEnd: {
-            js: ["Node.js", "Express", "Fastify"],
-            python: ["Django", "Flask", "FastAPI"],
-            csharp: [".NET Core", "ASP.NET"],
-            databases: ["MongoDB", "PostgreSQL", "Redis"]
-        },
-        devOps: ["Docker", "GitHub Actions", "Heroku", "Vercel"],
-        tools: ["Git", "Webpack", "Vite", "ESLint"]
-    },
-    specialties: ["Discord Bot Development", "API Integration", "Automation Tools"],
-    currentFocus: "Building next-gen Discord experiences",
-    funFact: "I debug with console.log() and I'm not ashamed! 😄"
-};
-```
+<br>
+
+<div align="center">
+  <table>
+    <tr>
+      <td>🚀 <strong>Languages:</strong></td>
+      <td>JavaScript • Python • C# • C++ • TypeScript • Lua</td>
+    </tr>
+    <tr>
+      <td>💡 <strong>Ask me about:</strong></td>
+      <td>Web Development • Discord Bots • Automation • Gaming</td>
+    </tr>
+    <tr>
+      <td>🛠️ <strong>Frontend:</strong></td>
+      <td>React • Vue • Angular • Bootstrap • Tailwind • Material-UI</td>
+    </tr>
+    <tr>
+      <td>⚙️ <strong>Backend:</strong></td>
+      <td>Node.js • Express • Django • Flask • .NET Core • ASP.NET</td>
+    </tr>
+    <tr>
+      <td>🗄️ <strong>Databases:</strong></td>
+      <td>MongoDB • PostgreSQL • Redis</td>
+    </tr>
+    <tr>
+      <td>☁️ <strong>DevOps:</strong></td>
+      <td>Docker • GitHub Actions • Heroku • Vercel</td>
+    </tr>
+    <tr>
+      <td>🎯 <strong>Specialties:</strong></td>
+      <td>Discord Bot Development • API Integration • Automation Tools</td>
+    </tr>
+    <tr>
+      <td>🔭 <strong>Currently:</strong></td>
+      <td>Building next-gen Discord experiences</td>
+    </tr>
+    <tr>
+      <td>⚡ <strong>Fun fact:</strong></td>
+      <td>I debug with console.log() and I'm not ashamed! 😄</td>
+    </tr>
+  </table>
+</div>
 
 ---
 
@@ -72,11 +92,11 @@ const driizzyy = {
 ## 🌟 Featured Projects
 
 <div align="center">
-  <a href="https://github.com/driizzyy/discord-bot-advanced">
-    <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=driizzyy&repo=discord-bot-advanced&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF" />
+  <a href="https://github.com/driizzyy/Discord-Selfbot">
+    <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=driizzyy&repo=Discord-Selfbot&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF" />
   </a>
-  <a href="https://github.com/driizzyy/automation-suite">
-    <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=driizzyy&repo=automation-suite&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF" />
+  <a href="https://github.com/driizzyy/ChatBox">
+    <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=driizzyy&repo=chatbox&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF" />
   </a>
 </div>
 
@@ -85,7 +105,7 @@ const driizzyy = {
 ## 🎮 Current Status
 
 <div align="center">
-  <img src="https://lanyard.cnrad.dev/api/YOUR_DISCORD_ID" alt="Discord Status" />
+  <img src="https://lanyard.cnrad.dev/api/220854546048614400" alt="Discord Status" />
 </div>
 
 <div align="center">
@@ -105,14 +125,8 @@ const driizzyy = {
   <a href="https://discord.gg/JfQTtqhKPw">
     <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white&labelColor=5865F2" alt="Discord"/>
   </a>
-  <a href="mailto:your.email@gmail.com">
+  <a href="mailto:driizzyyboosts@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=D14836" alt="Email"/>
-  </a>
-  <a href="https://twitter.com/driizzyy">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&labelColor=1DA1F2" alt="Twitter"/>
-  </a>
-  <a href="https://linkedin.com/in/driizzyy">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0077B5" alt="LinkedIn"/>
   </a>
 </div>
 
@@ -168,7 +182,7 @@ JSON         42 mins         █░░░░░░░░░░░░░░░░
 ## 🎵 Spotify Playing
 
 <div align="center">
-  <img src="https://spotify-github-profile.vercel.app/api/view?uid=YOUR_SPOTIFY_ID&cover_image=true&theme=novatorem&show_offline=true&background_color=0d1117&interchange=true&bar_color=00d9ff" />
+  <img src="https://spotify-github-profile.vercel.app/api/view?uid=3127i3n2yzjia3guhfu6o7wpeleu&cover_image=true&theme=novatorem&show_offline=true&background_color=0d1117&interchange=true&bar_color=00d9ff" />
 </div>
 
 ---
